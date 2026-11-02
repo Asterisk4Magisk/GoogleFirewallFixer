@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2026, Asterisk4Magisk contributors -->
+<!-- SPDX-License-Identifier: GPL-3.0 -->
+<resources>
+    <string name="app_name" translatable="false">GoogleFirewallFixer</string>
+    <string name="xposed_description">阻止 ColorOS 电池组件在 Google 探测失败后对 Google Play 服务、Play 商店与 ConfigUpdater 的禁网。</string>
+</resources>
