@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "org.asterisk.zcc.fixer.coloros"
+    namespace = "org.asterisk.zcc.fixer.redmagicos"
     compileSdk {
         version = release(37) {
             minorApiLevel = 2
@@ -20,8 +20,8 @@ android {
     }
 
     defaultConfig {
-        applicationId = "org.asterisk.zcc.fixer.coloros"
-        minSdk = 36
+        applicationId = "org.asterisk.zcc.fixer.redmagicos"
+        minSdk = 33
         targetSdk = 37
         versionCode = 1
         versionName = "1.0.0"

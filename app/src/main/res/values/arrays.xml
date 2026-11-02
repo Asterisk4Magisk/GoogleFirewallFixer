@@ -2,8 +2,8 @@
 <!-- Copyright 2026, Asterisk4Magisk contributors -->
 <!-- SPDX-License-Identifier: GPL-3.0 -->
 <resources>
-    <!-- Static LSPosed scope: only the ColorOS battery component. -->
+    <!-- Static LSPosed scope: only the system framework (system_server). -->
     <string-array name="xposed_scope" translatable="false">
-        <item>com.oplus.battery</item>
+        <item>android</item>
     </string-array>
 </resources>

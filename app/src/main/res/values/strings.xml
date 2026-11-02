@@ -3,5 +3,5 @@
 <!-- SPDX-License-Identifier: GPL-3.0 -->
 <resources>
     <string name="app_name" translatable="false">GoogleFirewallFixer</string>
-    <string name="xposed_description">阻止 ColorOS 电池组件在 Google 探测失败后对 Google Play 服务、Play 商店与 ConfigUpdater 的禁网。</string>
+    <string name="xposed_description">阻止 RedMagic OS 系统框架在 Google 不可用时对 Google Play 服务与 Play 商店的禁网，并避免 SuperKiller 杀掉 GMS 推送进程。</string>
 </resources>
